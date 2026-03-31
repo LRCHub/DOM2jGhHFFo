@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "またね、おやすみ",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-03-31T04:23:46.583898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またね、おやすみ",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_またね、おやすみ_BLUEGOATS.txt"
+    }
+  ]
+}
